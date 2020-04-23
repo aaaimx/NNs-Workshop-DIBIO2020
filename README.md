@@ -20,7 +20,7 @@ Se estudiará como funciona una red neuronal, como entrenarlas, programarlas, pa
 
 ## Requisitos
 - Python 3.7
-- [Entorno virtual](https://edgardorl.com/blog/instalar-python-pip-y-virtualenv-en-windows-10/) listo para usar
+- [Entorno virtual](https://edgardorl.com/blog/instalar-python-pip-y-virtualenv-en-windows-10/) listo para usar (opcional)
 - Editor de código [VSCode](https://code.visualstudio.com/download) (Recomendado)
 - Tener conocimientos sobre:
   * Uso de *for*, *while*, *if*, *else*; _tipos de datos_, _arreglos_(se manejaran hasta de 3 dimensiones).
