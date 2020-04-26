@@ -31,7 +31,25 @@ También pueden trabajar con Google Colaboratory.
 
 ## Instalación
 
+``` bash
+$ pip install virtualenv # opcional
+$ virtualenv venv # opcional
+$ .\venv\Scripts\activate # opcional
+$ pip install -r .\requirements.txt # necesario
+$ deactivate # salir
 ```
-$ pip install -r requirements.txt
-```
-  
+## Enlaces útiles
+[Instalar python, pip y virtualenv en Windows](https://edgardorl.com/blog/instalar-python-pip-y-virtualenv-en-windows-10/)
+
+[Descargar VSCode](https://code.visualstudio.com/download)
+
+## Troubleshooting
+> **NOTA:** La libreria Tensorflow no funciona en Python 3.8 o superiores, procure instalar una version de python 3.7 o menor.
+
+> `$ python get-pip.py` - Solución al error: "El término 'pip' no se reconoce como nombre de un cmdlet, 
+función, archivo de script o programa ejecutable."
+
+
+
+> Solución al error de PowerShell “No se puede cargar el archivo porque la ejecución de scripts está deshabilidada en este sistema”
+[Error de activación de entorno virtual](https://protegermipc.net/2018/11/22/permitir-la-ejecucion-de-scripts-powershell-en-windows-10/)
