@@ -49,7 +49,7 @@ $ deactivate # salir
 > **NOTA:** La libreria Tensorflow no funciona en Python 3.8 o superiores, procure instalar una version de python 3.7 o menor.
 
 > `$ python get-pip.py` - Solución al error: "El término 'pip' no se reconoce como nombre de un cmdlet, 
-función, archivo de script o programa ejecutable."
+función, archivo de script o programa ejecutable." o descarga el script [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 
 
 
