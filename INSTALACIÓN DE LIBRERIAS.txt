@@ -1,0 +1,6 @@
+Para instalar cualquier libreria en python es tan facil como ir a la consola de comandos y escribir:
+
+pip install LIBRERIA
+
+LIBRERIA = nombre de las librerias que estan en la lista
+
