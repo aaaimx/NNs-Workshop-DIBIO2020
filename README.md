@@ -31,6 +31,8 @@ También pueden trabajar con Google Colaboratory.
 
 ## Instalación
 
+**$**: Indica que es un comando de terminal
+
 ``` bash
 $ pip install virtualenv # opcional
 $ virtualenv venv # opcional
